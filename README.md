@@ -1,9 +1,5 @@
 ## Bem-vindo(a) ao perfil do CauaLc😁
  
- <div>
-   <a href="https://github.com/CauaLc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaLc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
     
 <div style="display: inline_block"><br>
  
