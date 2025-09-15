@@ -11,9 +11,9 @@
 - **Ferramentas:** Git/GitHub, Vercel, Microsoft Copilot  
 
 ## 📂 Projetos em destaque
-- 📝 [To-do List Full-Stack](https://github.com/usuario/projeto-todo) — App full-stack com Python, JavaScript e Bootstrap.  
-- 💰 [Gestão Financeira Pessoal](https://github.com/usuario/projeto-financas) — Sistema em Java + Oracle SQL.  
-- 🔒 [Validação de Assinaturas Digitais (LetsSign)](https://github.com/usuario/letssign) — Blockchain + JavaScript + Bootstrap.  
+- 📝 [To-do List Full-Stack](https://github.com/CauaLc/To-do-List) — App full-stack com Python, JavaScript e Bootstrap.  
+- 💰 [Gestão Financeira Pessoal](https://github.com/CauaLc/Fintech) — Sistema em Java + Oracle SQL.  
+- 🔒 [Validação de Assinaturas Digitais (LetsSign)](https://github.com/CauaLc/LetsSign-Fiap) — Blockchain + JavaScript + Bootstrap.  
 
 ---
 ⭐ Confira meus repositórios para mais projetos e estudos!
