@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cauã Luz Cavaco  
+# 👋 Olá, eu sou o Cauã!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
 🚀 Focado em desenvolvimento full-stack com Java, Python, JavaScript e SQL  
