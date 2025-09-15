@@ -1,22 +1,21 @@
-## Bem-vindo(a) ao perfil do CauaLc😁
- 
-    
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-###  Me segue nas redes abaixo!
- 
-<div> 
- 
-  <a href="https://instagram.com/caua_lc1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+# 👋 Olá, eu sou o Cauã Luz Cavaco  
 
-</div>
+💻 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
+🚀 Focado em desenvolvimento full-stack com Java, Python, JavaScript e SQL  
+🌱 Atualmente estudando frameworks modernos (React, Angular, Spring Boot)  
+
+## 🔧 Tecnologias
+- **Linguagens:** Java, Python, JavaScript, SQL, Kotlin  
+- **Front-end:** HTML5, CSS3, Bootstrap, React, Angular  
+- **Back-end:** Java (JSP/Servlets, Spring Boot), Python (Flask/Django)  
+- **Ferramentas:** Git/GitHub, Vercel, Microsoft Copilot  
+
+## 📂 Projetos em destaque
+- 📝 [To-do List Full-Stack](https://github.com/usuario/projeto-todo) — App full-stack com Python, JavaScript e Bootstrap.  
+- 💰 [Gestão Financeira Pessoal](https://github.com/usuario/projeto-financas) — Sistema em Java + Oracle SQL.  
+- 🔒 [Validação de Assinaturas Digitais (LetsSign)](https://github.com/usuario/letssign) — Blockchain + JavaScript + Bootstrap.  
+
+---
+⭐ Confira meus repositórios para mais projetos e estudos!
+
 
