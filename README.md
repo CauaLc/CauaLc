@@ -27,7 +27,7 @@ Atualmente estou direcionando meus estudos e projetos para **Inteligência Artif
 
 ### 🤖 Assistente de Estudos com IA
 
-[**AI Study Assistant**] (https://github.com/CauaLc/ai-study-addistant)
+[**AI Study Assistant**](https://github.com/CauaLc/ai-study-addistant)
 
 Meu primeiro projeto desenvolvido com foco em **Python + Inteligência Articial**.
 
