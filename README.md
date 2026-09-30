@@ -25,9 +25,15 @@ Atualmente estou direcionando meus estudos e projetos para **Inteligência Artif
 
 ## 🚀 Projetos em destaque
 
-### 🤖 Projetos de Inteligência Artificial
+### 🤖 Assistente de Estudos com IA
 
-> Em breve: meus primeiros projetos focados em **Python + IA Generativa**, desenvolvidos durante minha jornada de estudos em AI Engineering.
+[**AI Study Assistant**] (https://github.com/CauaLc/ai-study-addistant)
+
+Meu primeiro projeto desenvolvido com foco em **Python + Inteligência Articial**.
+
+Desenvolvido com:
+
+**Python • Ollama • Gemma 3 4B • LLMs • Prompt Engineering**
 
 ### 💼 Inclusão & Diversidade API
 
